@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Assistant to the Manager",
+    "company": "JSC \"Temiryo'l-Sug'urta\"",
+    "location": "Tashkent, Uzbekistan",
+    "duration": "Jun 2026 - Present",
+    "industry": "Finance / Insurance",
+    "description": "Promoted from the Risk and Asset Management internship to directly support the manager, with a growing focus on local market reinsurance operations.",
+    "responsibilities": [
+      "Analyze and coordinate local market reinsurance placements and renewals",
+      "Support the manager in underwriting decisions and risk evaluation",
+      "Maintain and update records of the reinsurance portfolio",
+      "Submit required reports to the NAPP of Uzbekistan and liaise with local insurance companies"
+    ]
+  },
+  {
+    "title": "Intern, Risk and Asset Management Department",
+    "company": "JSC \"Temiryo'l-Sug'urta\"",
+    "location": "Tashkent, Uzbekistan",
+    "duration": "Mar 2026 - Jun 2026",
+    "industry": "Finance / Insurance",
+    "description": "Supported underwriting and reinsurance operations for a railway insurance company.",
+    "responsibilities": [
+      "Analyzed offered risks and discussed them with the lead underwriter to support final underwriting decisions",
+      "Assisted with reinsurance operations and maintained records of the reinsurance portfolio",
+      "Updated the company platform with newly accepted risks and submitted required reports to the NAPP of Uzbekistan",
+      "Maintained communication and coordinated with local insurance companies regarding reinsurance matters"
+    ]
+  },
+  {
+    "title": "Academic Support Teacher",
+    "company": "Educational Center SAT Tashkent",
+    "location": "Tashkent, Uzbekistan",
+    "duration": "Oct 2025 - Dec 2025",
+    "industry": "Education",
+    "description": "Provided individualized and group instruction in SAT Math and English to help students improve scores.",
+    "responsibilities": [
+      "Designed lesson plans, exercises, and practice tests aligned with the SAT format and standards",
+      "Identified student weaknesses and implemented targeted improvement strategies"
+    ]
+  },
+  {
+    "title": "Assistant Retail Merchandiser",
+    "company": "\"Samarkand Prime Germes\" LLC",
+    "location": "Samarkand, Uzbekistan",
+    "duration": "Jun 2022 - Dec 2022",
+    "industry": "Retail",
+    "description": "Handled goods intake, quality checks, and inventory documentation for a retail operation.",
+    "responsibilities": [
+      "Received goods, checked their quality, and registered products into the system",
+      "Provided training for newcomers on using the application",
+      "Assisted colleagues from other sections when needed",
+      "Documented deliveries, refunds, and write-offs of expired products"
+    ]
+  }
+]
